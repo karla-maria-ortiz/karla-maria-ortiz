@@ -69,15 +69,15 @@ Atualmente, também desenvolvo meus conhecimentos em **Sistemas de Informação*
 | Tecnologia | Experiência |
 |---|---|
 | 📊 **Excel** | Intermediário a Avançado |
-| 📊 **Power BI** | Desenvolvimento de dashboards e visualizações |
-| 📐 **DAX** | Conhecimento aplicado ao desenvolvimento de soluções |
+| 📊 **Power BI** | Desenvolvimento de dashboards, modelagem e visualização de dados |
+| 📐 **DAX** | Desenvolvimento e aplicação de medidas e indicadores |
 | 🗄️ **SQL** | Intermediário |
 | 🐍 **Python** | Intermediário |
 | 🔧 **Git & GitHub** | Intermediário |
 | 🤖 **Inteligência Artificial** | Intermediário, conforme plataforma e aplicação |
 | ⚙️ **Automação** | Desenvolvimento de automações e soluções práticas |
 
-> Utilizo Inteligência Artificial e automação como ferramentas de apoio ao desenvolvimento de soluções, especialmente na integração, estruturação, projeção e análise de dados e dashboards.
+> Utilizo Inteligência Artificial e automação como ferramentas de apoio ao desenvolvimento, especialmente para integração, estruturação, projeção, tratamento e análise de dados, além do desenvolvimento e aprimoramento de dashboards e soluções.
 
 ---
 
@@ -157,6 +157,9 @@ Estudos e projetos voltados à utilização de Inteligência Artificial para apo
 📚 **Bacharelado em Administração**  
 Em andamento
 
+📚 **Bacharelado em Sistemas de Informação**  
+Em andamento
+
 ---
 
 ## 📊 O que estou desenvolvendo
@@ -178,9 +181,9 @@ Atualmente, estou ampliando meus conhecimentos e projetos nas áreas de:
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=karlamariaortiz-coder&show_icons=true&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=karla-maria-ortiz&show_icons=true&include_all_commits=true&count_private=true)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karlamariaortiz-coder&layout=compact&langs_count=8)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=karla-maria-ortiz&layout=compact&langs_count=8)
 
 </div>
 
@@ -192,7 +195,7 @@ Atualmente, estou ampliando meus conhecimentos e projetos nas áreas de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Maria%20Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-maria-ortiz/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-karlamariaortiz--coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karlamariaortiz-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-karla-maria-ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz)
 
 </div>
 
