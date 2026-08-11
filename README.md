@@ -154,10 +154,7 @@ Estudos e projetos voltados à utilização de Inteligência Artificial para apo
 
 ## 🎓 Formação
 
-🎓 **Bacharelado em Sistemas de Informação**  
-Em andamento
-
-📚 **Administração**  
+📚 **Bacharelado em Administração**  
 Em andamento
 
 ---
