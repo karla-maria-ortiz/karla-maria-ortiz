@@ -5,7 +5,7 @@
 ### 💼 Financeiro | Controladoria | Análise de Dados | IA & Tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Maria%20Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-maria-ortiz/)
-[![GitHub](https://img.shields.io/badge/GitHub-Karla%20Maria%20Ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz)
+[![GitHub](https://img.shields.io/badge/GitHub-Karla%20Maria%20Ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz/karla-maria-ortiz)
 
 </div>
 
