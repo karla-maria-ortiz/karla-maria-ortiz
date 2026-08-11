@@ -5,7 +5,7 @@
 ### 💼 Financeiro | Controladoria | Análise de Dados | IA & Tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Maria%20Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-maria-ortiz/)
-[![GitHub](https://img.shields.io/badge/GitHub-karla-maria-ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz)
+[![GitHub](https://img.shields.io/badge/GitHub-Karla%20Maria%20Ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz)
 
 </div>
 
@@ -66,18 +66,18 @@ Atualmente, também desenvolvo meus conhecimentos em **Sistemas de Informação*
 
 ## 📌 Experiência técnica
 
-| Tecnologia | Experiência |
+| Tecnologia | Nível / Aplicação |
 |---|---|
 | 📊 **Excel** | Intermediário a Avançado |
-| 📊 **Power BI** | Desenvolvimento de dashboards, modelagem e visualização de dados |
-| 📐 **DAX** | Desenvolvimento e aplicação de medidas e indicadores |
+| 📊 **Power BI** | Desenvolvimento de dashboards, modelagem, visualização e análise de dados |
+| 📐 **DAX** | Desenvolvimento de medidas, indicadores e cálculos para soluções em Power BI |
 | 🗄️ **SQL** | Intermediário |
 | 🐍 **Python** | Intermediário |
 | 🔧 **Git & GitHub** | Intermediário |
-| 🤖 **Inteligência Artificial** | Intermediário, conforme plataforma e aplicação |
+| 🤖 **Inteligência Artificial** | Intermediário, com aplicação conforme a plataforma e o objetivo |
 | ⚙️ **Automação** | Desenvolvimento de automações e soluções práticas |
 
-> Utilizo Inteligência Artificial e automação como ferramentas de apoio ao desenvolvimento, especialmente para integração, estruturação, projeção, tratamento e análise de dados, além do desenvolvimento e aprimoramento de dashboards e soluções.
+> Utilizo Inteligência Artificial e automação como ferramentas de apoio ao desenvolvimento, especialmente para integração, estruturação, tratamento, projeção e análise de dados, além do desenvolvimento e aprimoramento de dashboards e soluções.
 
 ---
 
@@ -98,7 +98,8 @@ Projeto de desenvolvimento de dashboard para acompanhamento e análise de indica
 - Margens
 - Indicadores financeiros
 
-**Tecnologias:**  
+**Tecnologias:**
+
 `Excel` `Power BI` `DAX` `IA` `Automação`
 
 ---
@@ -115,7 +116,8 @@ Projeto voltado à organização, tratamento e análise de dados financeiros par
 - Geração de indicadores
 - Visualização de resultados
 
-**Tecnologias:**  
+**Tecnologias:**
+
 `Python` `SQL` `Excel` `Power BI`
 
 ---
@@ -132,7 +134,8 @@ Projeto voltado ao desenvolvimento de soluções para automatizar tarefas repeti
 - Atualização de indicadores
 - Integração entre dados e dashboards
 
-**Tecnologias:**  
+**Tecnologias:**
+
 `Python` `IA` `Automação` `Excel`
 
 ---
@@ -154,11 +157,13 @@ Estudos e projetos voltados à utilização de Inteligência Artificial para apo
 
 ## 🎓 Formação
 
-📚 **Bacharelado em Administração**  
-Em andamento
+📚 **Bacharelado em Administração**
 
-📚 **Bacharelado em Sistemas de Informação**  
-Em andamento
+Em andamento.
+
+📚 **Bacharelado em Sistemas de Informação**
+
+Em andamento.
 
 ---
 
@@ -195,7 +200,7 @@ Atualmente, estou ampliando meus conhecimentos e projetos nas áreas de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla%20Maria%20Ortiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-maria-ortiz/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-karla-maria-ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz)
+[![GitHub](https://img.shields.io/badge/GitHub-Karla%20Maria%20Ortiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karla-maria-ortiz)
 
 </div>
 
